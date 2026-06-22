@@ -1,7 +1,5 @@
 # BharatSTT
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-
 > **22 Indian Languages + English + Code-Switching — fully offline, no paid API**
 
 BharatSTT is a production-ready Speech-to-Text pipeline that combines three open-source AI models to handle real-world Indian speech: pure Hindi/English, Hinglish, and everything in between.
@@ -208,3 +206,29 @@ Hindi · Bengali · Tamil · Telugu · Marathi · Gujarati · Kannada · Malayal
 - Current model is Hindi-only (upgrade path above)
 - English proper nouns in Hindi speech get phonetically transcribed
 - Chunk inference is sequential — can be parallelised with threading for production
+
+---
+
+## License
+
+MIT License
+
+Copyright (c) 2026 Dhruv Garg
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
