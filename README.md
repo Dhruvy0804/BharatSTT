@@ -1,5 +1,7 @@
 # BharatSTT
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 > **22 Indian Languages + English + Code-Switching — fully offline, no paid API**
 
 BharatSTT is a production-ready Speech-to-Text pipeline that combines three open-source AI models to handle real-world Indian speech: pure Hindi/English, Hinglish, and everything in between.
