@@ -1,13 +1,15 @@
-# BharatSTT
+# BharatSTT — Multi-Language Speech-to-Text for Indian Languages
 
-> **22 Indian Languages + English + Code-Switching — fully offline, no paid API**
+> **22 Indian Languages + English + Code-Switching (Hinglish) — fully offline, no paid API**
 
-BharatSTT is a production-ready Speech-to-Text pipeline that combines three open-source AI models to handle real-world Indian speech: pure Hindi/English, Hinglish, and everything in between.
+**BharatSTT** is a production-ready, open-source **Automatic Speech Recognition (ASR)** pipeline that handles real-world Indian speech — pure Hindi, pure English, Hinglish, and mid-sentence language switches — all running locally without any cloud API.
+
+Built by combining three state-of-the-art open-source models with an intelligent phrase-level routing engine and word-level code-switch mixer.
 
 **Models combined:**
-- 🇮🇳 [AI4Bharat IndicConformer](https://github.com/AI4Bharat/NeMo) — Indian language transcription in native script
-- 🌐 [OpenAI Whisper](https://github.com/openai/whisper) (via faster-whisper) — English + language detection
-- 🔊 [Silero VAD](https://github.com/snakers4/silero-vad) — Voice activity detection
+- 🇮🇳 [AI4Bharat IndicConformer](https://github.com/AI4Bharat/NeMo) — Indian language ASR in native script (Devanagari, Tamil, Telugu, etc.)
+- 🌐 [OpenAI Whisper](https://github.com/openai/whisper) (via faster-whisper) — English ASR + multilingual language detection
+- 🔊 [Silero VAD](https://github.com/snakers4/silero-vad) — Voice Activity Detection, splits audio at silence boundaries
 
 ---
 
