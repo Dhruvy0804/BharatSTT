@@ -41,7 +41,7 @@ This phrase-level routing + word-level mixing is what makes it work for real Ind
 |---|---|
 | Pure Hindi — *"आज मौसम बहुत अच्छा है"* | `आज मौसम बहुत अच्छा है` |
 | Pure English — *"The meeting starts at nine"* | `The meeting starts at nine` |
-| Hinglish — *"mujhe tomorrow office jana hai"* | `मुझे tomorrow office जाना है` |
+| Hinglish — *"yaar, agar time par nahi nikle, toh meeting miss ho jayegi"* | `यार अगर time पर नहीं निकले तो meeting miss हो जाएगी` |
 | Mixed — *"Please send the report… बाकी काम कल होगा"* | `Please send the report बाकी काम कल होगा` |
 
 ---
