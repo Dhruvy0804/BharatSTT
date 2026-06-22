@@ -39,10 +39,10 @@ This phrase-level routing + word-level mixing is what makes it work for real Ind
 
 | You speak | BharatSTT outputs |
 |---|---|
-| Pure Hindi — *"मेरा नाम ध्रुव गर्ग है"* | `मेरा नाम ध्रुव गर्ग है` |
-| Pure English — *"I am from Punjab"* | `I am from Punjab` |
+| Pure Hindi — *"आज मौसम बहुत अच्छा है"* | `आज मौसम बहुत अच्छा है` |
+| Pure English — *"The meeting starts at nine"* | `The meeting starts at nine` |
 | Hinglish — *"mujhe tomorrow office jana hai"* | `मुझे tomorrow office जाना है` |
-| Mixed — *"Hello I am Dhruv… मैं अभी इंटर्नशिप कर रहा हूँ"* | `Hello I am Dhruv मैं अभी इंटर्नशिप कर रहा हूँ` |
+| Mixed — *"Please send the report… बाकी काम कल होगा"* | `Please send the report बाकी काम कल होगा` |
 
 ---
 
