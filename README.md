@@ -206,5 +206,5 @@ Hindi · Bengali · Tamil · Telugu · Marathi · Gujarati · Kannada · Malayal
 ## Known limitations
 
 - Current model is Hindi-only (upgrade path above)
-- English proper nouns in Hindi speech get phonetically transcribed (e.g. *Bluestem* → *ब्लोस्टैम*)
+- English proper nouns in Hindi speech get phonetically transcribed
 - Chunk inference is sequential — can be parallelised with threading for production
