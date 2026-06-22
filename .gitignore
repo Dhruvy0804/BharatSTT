@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+nemo_venv/
+
+# Models (too large for GitHub)
+*.nemo
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.onnx
+
+# Test output files
+test5_out*.txt
+test5_latency*.txt
+test_output.txt
+
+# NeMo local library (install via pip)
+NeMo/
+
+# Word docs & generated files (optional — uncomment to exclude)
+# *.docx
+# generate_pipeline_doc.py
+
+# Misc
+.DS_Store
+Thumbs.db
+*.log
+tmp_*.wav
