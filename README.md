@@ -2,7 +2,7 @@
 
 > **22 Indian Languages + English + Code-Switching (Hinglish) — fully offline, no paid API**
 
-**BharatSTT** is a production-ready, open-source **Automatic Speech Recognition (ASR)** pipeline that handles real-world Indian speech — pure Hindi, pure English, Hinglish, and mid-sentence language switches — all running locally without any cloud API.
+**BharatSTT** is a open-source **Automatic Speech Recognition (ASR)** pipeline that handles real-world Indian speech — pure Hindi, pure English, Hinglish, and mid-sentence language switches — all running locally without any cloud API.
 
 Built by combining three state-of-the-art open-source models with an intelligent phrase-level routing engine and word-level code-switch mixer.
 
